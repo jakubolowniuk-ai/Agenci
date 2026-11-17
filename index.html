@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Test</title>
+</head>
+<body>
+  <h1>Test</h1>
+  <p>Licznik: <span id="licznik">0</span></p>
+  <button id="przycisk" type="button">Kliknij</button>
+
+  <script>
+    let licznik = 0;
+    const wyswietlacz = document.getElementById('licznik');
+    document.getElementById('przycisk').addEventListener('click', () => {
+      licznik++;
+      wyswietlacz.textContent = licznik;
+    });
+  </script>
+</body>
+</html>
