@@ -17,3 +17,8 @@
 - Terminy techniczne wyjaśniaj w nawiasie przy pierwszym użyciu.
 - Używaj prostych porównań z codziennego życia.
 - Jasno mów, czego nie sprawdziłeś lub czego nie jesteś pewien.
+
+## Gałęzie
+- Pracuj tylko na gałęzi utworzonej dla tej sesji (każdej innej niż main).
+- Jeśli jesteś na main, nic nie zmieniaj i zapytaj mnie.
+- Na początku każdej odpowiedzi, w której zmieniasz pliki, napisz nazwę gałęzi, na której jesteś.
